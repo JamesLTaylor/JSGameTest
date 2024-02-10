@@ -19,8 +19,6 @@ var config = {
 };
 
 var game = new Phaser.Game(config);
-var rightImages = []
-var leftImages = []
 
 function preload ()
 {
